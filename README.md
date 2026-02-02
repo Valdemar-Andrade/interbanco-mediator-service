@@ -70,10 +70,10 @@ mvn spring-boot:run
 - Projeto desenvolvido para fins educacionais e demonstração de arquitetura backend.
 
 ## Projetos Relacionados
-[interbanco-bank-service-a](https://github.com/Valdemar-Andrade/interbanco-bank-service-a) — Serviço bancário participante do sistema InterBanco.
-[interbanco-bank-service-b](https://github.com/Valdemar-Andrade/interbanco-bank-service-b) — Serviço bancário participante do sistema InterBanco.
+- [interbanco-bank-service-a](https://github.com/Valdemar-Andrade/interbanco-bank-service-a) — Serviço bancário participante do sistema InterBanco.
+- [interbanco-bank-service-b](https://github.com/Valdemar-Andrade/interbanco-bank-service-b) — Serviço bancário participante do sistema InterBanco.
 
-[Meu LinkedIn](https://www.linkedin.com/in/valdemar-andrade-8b0b45189) - LinkedIn
+- [Meu LinkedIn](https://www.linkedin.com/in/valdemar-andrade-8b0b45189) - LinkedIn
 
 
 
